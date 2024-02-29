@@ -1,6 +1,6 @@
 ### Olá, eu sou o Leonardo 👋
 
-{!Instagram}(https://img.shields.io/badge/Instagram-[E4405F?style-fot-the-badge&logo-instagram&logoColor+white)](https://www.instagram.com/leo_abri)
+[![Instagram](https://img.shields.io/badge/Instagram-[E4405F?style-fot-the-badge&logo-instagram&logoColor+white)](https://www.instagram.com/leo_abri)
 
 <!--
 **LeoAbril98/leoabril98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
